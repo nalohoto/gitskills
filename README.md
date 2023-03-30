@@ -1,4 +1,4 @@
 # gitskills
 Creating a new branch is quick AND simple.
-
-change
+Git is a free software distributed under the GPL.
+change 
